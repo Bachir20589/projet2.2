@@ -1,0 +1,110 @@
+body{
+    padding:0;
+    margin:0;
+    background-color:black;
+    padding-bottom: 2%;
+}
+
+h3{
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+    margin-top: 5%;
+}
+p{
+     display: flex;
+    justify-content: center;
+    color: aliceblue;
+    margin-top: 0%;
+}
+#P{
+    display: flex;
+    justify-self: center;
+    margin-top: 3%;
+    border: 5px sloid brown;
+    color: aliceblue;
+    background-color: rgb(19, 197, 19);
+    padding-bottom: -5%;
+    padding-left: 1%;
+    border-radius: 2%;
+    padding-right: 20%;
+}
+#N{
+    display: flex;
+    justify-self: center;
+    margin-top: 2%;
+    border: 5px sloid brown;
+    color: aliceblue;
+    background-color: rgb(19, 197, 19);
+    padding-bottom: -5%;
+    padding-left: 1%;
+    border-radius: 2%;
+    padding-right: 22%;
+}
+#E{
+    display: flex;
+    justify-self: center;
+    margin-top: 2%;
+    border: 5px sloid brown;
+    color: aliceblue;
+    background-color: rgb(19, 197, 19);
+    padding-bottom: -5%;
+    padding-left: 1%;
+    border-radius: 5%;
+    padding-right: 21.5%;
+}
+#M{
+    display: flex;
+    justify-self: center;
+    margin-top: 2%;
+    border: 5px sloid brown;
+    color: aliceblue;
+    background-color: rgb(19, 197, 19);
+    padding-bottom: -5%;
+    padding-left: 1%;
+    border-radius: 5%;
+    padding-right: 18%;
+}
+
+#r h1{
+    display: flex;
+    justify-self: center;
+    border: 5px sloid brown;
+    color: aliceblue;
+    margin-top: 2%;
+    background-color: rgb(19, 197, 19);
+    padding: 0.75%;
+    margin-left: -24%;
+    border-radius: 15%;
+}
+
+#r p{
+    margin-top: -3%;
+    margin-left: -10%;
+    color:aliceblue
+}
+#r p{
+    margin-top: -3%;
+    margin-left: -12%;
+    color:aliceblue
+}
+
+#v p{
+    margin-top: -2.5%;
+    margin-right: -16%;
+    color:rgb(19, 197, 19)
+}
+
+#a{
+    display: flex;
+    justify-self: center;
+    margin-top: 2%;
+    border: 5px sloid brown;
+    color: aliceblue;
+    background-color: rgb(19, 197, 19);
+    padding-bottom: -2%;
+    padding-left: 10%;
+    border-radius: 5%;
+    padding-right: 10%;
+    padding-top: 1%;
+}
